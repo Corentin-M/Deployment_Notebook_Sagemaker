@@ -1,8 +1,8 @@
-# Machine Learning Deployment using AWS SageMaker
+# ML Deployment using AWS SageMaker - Udacity Nanodegree
 
-Code and associated files 
+This repository, part of Udacity "Machine Learning Engineer" Nanodegree program contains my implementation of code and associated files provided by Udacity and focusing on deployment of ML models using AWS SageMaker. Below are the full instructions provided by Udacity and describing more precisely the content of tutorials, mini-projects and project :
 
-This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files that will be used to supplement the lessons of the Nanodegree.
+This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files that will be used to supplement the lessons of the Nanodegree.
 
 ## Table Of Contents
 
